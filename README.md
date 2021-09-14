@@ -1,5 +1,4 @@
 # ProductivityManager
-
 A to-do list web app developed with ReactJS for front end and JSON server for backend. 
 
 This is my web app that I use to manage my day-to-day tasks. The web app is hosted on my Raspberry Pi and the "backend" is a JSON file hosted on my local machine. 
