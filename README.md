@@ -13,4 +13,4 @@ I am currently working on implementing a backend using SQL.
 
 ![image](https://user-images.githubusercontent.com/87585163/133205802-03110ab7-8b4f-4c0c-b208-695913e505d6.png)
 
-*This web app was developed by following this tutorial: https://www.youtube.com/watch?v=sBws8MSXN7A*
+*This web app was developed by following this video: https://www.youtube.com/watch?v=sBws8MSXN7A*
